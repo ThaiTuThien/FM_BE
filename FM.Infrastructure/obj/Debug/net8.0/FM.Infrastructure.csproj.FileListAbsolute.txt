@@ -1,0 +1,15 @@
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\bin\Debug\net8.0\FM.Infrastructure.deps.json
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\bin\Debug\net8.0\FM.Infrastructure.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\bin\Debug\net8.0\FM.Infrastructure.pdb
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\bin\Debug\net8.0\FM.Domain.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\bin\Debug\net8.0\FM.Domain.pdb
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.csproj.AssemblyReference.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.AssemblyInfoInputs.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.AssemblyInfo.cs
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infra.32B4C9D9.Up2Date
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\refint\FM.Infrastructure.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.pdb
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\ref\FM.Infrastructure.dll

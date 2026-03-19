@@ -1,0 +1,14 @@
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\bin\Debug\net8.0\FM.Domain.deps.json
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\bin\Debug\net8.0\FM.Domain.runtimeconfig.json
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\bin\Debug\net8.0\FM.Domain.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\bin\Debug\net8.0\FM.Domain.pdb
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.csproj.AssemblyReference.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.AssemblyInfoInputs.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.AssemblyInfo.cs
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.csproj.CoreCompileInputs.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\refint\FM.Domain.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.pdb
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\FM.Domain.genruntimeconfig.cache
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Domain\obj\Debug\net8.0\ref\FM.Domain.dll
