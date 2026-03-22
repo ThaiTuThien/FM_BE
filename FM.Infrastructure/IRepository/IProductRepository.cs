@@ -10,5 +10,8 @@ namespace FM.Infrastructure.IRepository
     public interface IProductRepository
     {
         Task<List<Product>> GetAll();
+        Task<bool> Add(Product newProduct);
+        Task<bool> Update(Product newProduct);
+        Task<Product?> GetById(Guid id);
     }
 }

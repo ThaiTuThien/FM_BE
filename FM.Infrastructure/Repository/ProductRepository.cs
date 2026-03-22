@@ -24,5 +24,28 @@ namespace FM.Infrastructure.Repository
             .Include(x => x.Supplier)
             .ToListAsync();
         }
+
+        public async Task<bool> Add(Product newProduct)
+        {
+             await _context.Products
+            .AddAsync(newProduct);
+
+           int result = await _context.SaveChangesAsync();
+
+           return result > 0;
+        }
+
+        public async Task<bool> Update(Product newProduct)
+        {
+            _context.Products.Update(newProduct);
+            int result = await _context.SaveChangesAsync();
+            return result > 0;
+        }
+
+        public async Task<Product?> GetById(Guid id)
+        {
+            var result = await _context.Products.FirstOrDefaultAsync(x => x.Productid == id);
+            return result;
+        }
     }
 }

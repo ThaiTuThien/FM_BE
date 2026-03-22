@@ -13,3 +13,4 @@ D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastr
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\refint\FM.Infrastructure.dll
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.pdb
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\ref\FM.Infrastructure.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Infrastructure\obj\Debug\net8.0\FM.Infrastructure.sourcelink.json

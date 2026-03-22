@@ -10,5 +10,8 @@ namespace FM.Application.IService
     public interface IProductService
     {
         Task<List<Product>> GetAll();
+        Task<bool> Add(Product newProduct);
+        Task<bool> Update(Product newProduct);
+        Task<Product?> FindById(Guid id);
     }
 }

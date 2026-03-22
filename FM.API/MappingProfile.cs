@@ -10,10 +10,16 @@ namespace FM.API
         {
             
             CreateMap<Product, ProductDTO>()
-                .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Categoryname)) // Nếu tên khác nhau
-                .ForMember(dest => dest.SupplierName, opt => opt.MapFrom(src => src.Supplier.Suppliername));
+            .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Categoryname)) 
+            .ForMember(dest => dest.SupplierName, opt => opt.MapFrom(src => src.Supplier.Suppliername));
+            CreateMap<AddProductDTO, Product>()
+            .ForMember(dest => dest.Categoryid, opt => opt.MapFrom(src => src.Categoryid.ToOracleGuid()))
+            .ForMember(dest => dest.Supplierid, opt => opt.MapFrom(src => src.Supplierid.ToOracleGuid()));
+            CreateMap<UpdateProductDTO, Product>()
+           .ForMember(dest => dest.Categoryid, opt => opt.MapFrom(src => src.Categoryid.ToOracleGuid()))
+           .ForMember(dest => dest.Supplierid, opt => opt.MapFrom(src => src.Supplierid.ToOracleGuid()))
+           .ForMember(dest => dest.Productid, opt => opt.MapFrom(src => src.Productid.ToOracleGuid()));
 
-                
         }
     }
 }

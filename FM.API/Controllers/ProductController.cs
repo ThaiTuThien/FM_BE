@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using FM.API.DTO;
 using FM.Application.IService;
+using FM.Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FM.API.Controllers
@@ -24,6 +25,30 @@ namespace FM.API.Controllers
             var products = await _service.GetAll();
             var result = _mapper.Map<List<ProductDTO>>(products);
             return Ok(result);
+        }
+
+        [HttpPost]
+        [Route("add")]
+        public async Task<IActionResult> AddProduct([FromBody] AddProductDTO dto)
+        {
+            var products = _mapper.Map<Product>(dto);
+            var result = await _service.Add(products);
+            if(result) return Ok(result);
+            return BadRequest();
+        }
+
+        [HttpPut]
+        [Route("update")]
+        public async Task<IActionResult> UpdateProduct([FromBody] UpdateProductDTO dto)
+        {
+            var idConvert = dto.Productid.ToOracleGuid();
+            var productExist = await _service.FindById(idConvert);
+            if(productExist == null) return NotFound();
+
+            var products = _mapper.Map(dto, productExist);
+            var result = await _service.Update(products);
+            if(result) return Ok(result);
+            return BadRequest();
         }
     }
 }

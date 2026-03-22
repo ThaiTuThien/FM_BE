@@ -118,3 +118,4 @@ D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\zh-Hans\Microsoft.Code
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\AutoMapper.dll
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\obj\Debug\net8.0\FM.API.sourcelink.json

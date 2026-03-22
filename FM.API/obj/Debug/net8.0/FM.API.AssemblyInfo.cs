@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FM.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0290ab779bb9abc9ac8b50bc83bb869f2b0f391b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FM.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FM.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
