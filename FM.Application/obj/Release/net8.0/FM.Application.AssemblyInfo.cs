@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FM.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eba187a22cbd9203861f69f0de1852f699a40d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4021fcddae9fa5818e12e3c0b8bd50ba3480b7f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FM.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FM.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

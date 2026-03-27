@@ -16,3 +16,6 @@ D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Application\obj\Debug\net8.0\refint\FM.Appl
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Application\obj\Debug\net8.0\FM.Application.pdb
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Application\obj\Debug\net8.0\ref\FM.Application.dll
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.Application\obj\Debug\net8.0\FM.Application.sourcelink.json
+C:\Users\ACER\FM_BE\FM.Application\obj\Debug\net8.0\FM.Application.dll
+C:\Users\ACER\FM_BE\FM.Application\obj\Debug\net8.0\refint\FM.Application.dll
+C:\Users\ACER\FM_BE\FM.Application\obj\Debug\net8.0\FM.Application.pdb

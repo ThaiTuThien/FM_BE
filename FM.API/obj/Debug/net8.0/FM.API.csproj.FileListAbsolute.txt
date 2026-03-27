@@ -119,3 +119,6 @@ D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\zh-Hant\Microsoft.Code
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\AutoMapper.dll
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\FAMILY_MART_PROJECT\FM_PROJECT\FM.API\obj\Debug\net8.0\FM.API.sourcelink.json
+C:\Users\ACER\FM_BE\FM.API\obj\Debug\net8.0\FM.API.dll
+C:\Users\ACER\FM_BE\FM.API\obj\Debug\net8.0\refint\FM.API.dll
+C:\Users\ACER\FM_BE\FM.API\obj\Debug\net8.0\FM.API.pdb
